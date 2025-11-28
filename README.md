@@ -31,7 +31,7 @@ Cravory is a full-stack restaurant management system built with React and Node.j
 
 ### 1. Clone the repository
 
-git clone https://github.com/subhrapratim07/cravory.git
+git clone https://github.com/Bipasha1003/CRAVORY-Restaurant.git
 cd cravory
 
 ## 2. Backend Setup
